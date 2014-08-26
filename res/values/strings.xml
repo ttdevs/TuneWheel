@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TuneWheelFinal</string>
+    <string name="app_introduce">目前实现可以选择两种单位，展示不同的效果。\n由于时间比较紧，很多细节没有实现，有时间的时候会继续完善。</string>
+
+</resources>
